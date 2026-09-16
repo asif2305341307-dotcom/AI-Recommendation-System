@@ -1,0 +1,23 @@
+Movie,Genre,Language,Type,Rating
+Avengers: Endgame,Action,English,Superhero,8.4
+Avengers: Infinity War,Action,English,Superhero,8.4
+Iron Man,Action,English,Superhero,7.9
+John Wick,Action,English,Thriller,7.4
+The Dark Knight,Action,English,Superhero,9.0
+Interstellar,Sci-Fi,English,Drama,8.7
+Inception,Sci-Fi,English,Thriller,8.8
+The Martian,Sci-Fi,English,Drama,8.0
+Avatar,Sci-Fi,English,Fantasy,7.8
+Dune,Sci-Fi,English,Fantasy,8.0
+Titanic,Romance,English,Drama,7.9
+The Notebook,Romance,English,Drama,7.8
+La La Land,Romance,English,Musical,8.0
+3 Idiots,Comedy,Hindi,Drama,8.4
+PK,Comedy,Hindi,Comedy,8.1
+Dangal,Drama,Hindi,Sports,8.3
+Drishyam,Thriller,Hindi,Mystery,8.2
+Pathaan,Action,Hindi,Spy,5.9
+Zindagi Na Milegi Dobara,Comedy,Hindi,Drama,8.2
+Parasite,Thriller,Korean,Drama,8.5
+Train to Busan,Action,Korean,Horror,7.6
+Oldboy,Thriller,Korean,Mystery,8.3
